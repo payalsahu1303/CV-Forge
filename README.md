@@ -22,4 +22,4 @@ CVForge is a user-friendly, ATS-friendly resume builder that allows users to cre
 
 ## Clone the repository
    ```bash
-   git clone https://github.com/yourusername/CVForge.git
+   git clone https://github.com/payalsahu1303/CV-Forge.git
